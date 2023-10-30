@@ -1,3 +1,6 @@
 password 
 id
 username
+login
+employee
+line
